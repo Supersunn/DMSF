@@ -18,7 +18,7 @@ The code will soon be available
 
 ## Comparison Experiments
 Results of comparison of our model and SOTA models on the AVE dataset under both fully supervised and weakly supervised settings.
-![image](https://github.com/user-attachments/assets/2aaed997-fb5f-4ac5-b3ed-92da90214854){:width="50" height="100"}
+![image](https://github.com/user-attachments/assets/2aaed997-fb5f-4ac5-b3ed-92da90214854){:height="100" width="50"}
 
 ## Qualitative Analysis
 Qualitative visual analysis of our DMSF model on two event examples ("Bark" and "Bus"). The first row of each example shows the audio waveform image with event labels (divided into 10 segments), while the third row presents segment-level images with Ground Truth (GT) labels (red boxes denote event labels). Additionally, attention heatmaps for both the baseline AVGA model (second row) and our DMSF model (fourth row) are provided, with predicted event location frames highlighted by orange and green boxes, respectively.
